@@ -1,6 +1,6 @@
-**Olá, sou o Luã! Formado em economia e cientista de dados em formação :-)**
+**Olá, sou o Luã! Programador e cientista de dados :-)**
 
-**No momento atuando como analista de dados, trabalho com SQL Server, Power BI, R e Python.**
+**No momento atuando como analista de dados e desenvolvedor, trabalho com SQL, Python, Spark e Power BI.**
 
 - 📫 luaantosta@gmail.com
 
